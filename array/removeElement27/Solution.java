@@ -1,4 +1,4 @@
-package removeElement27;
+package array.removeElement27;
 
 public class Solution {
     public int removeElement(int[] nums, int val) {

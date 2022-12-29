@@ -1,4 +1,4 @@
-package removeDuplicatesFromSortedArray26;
+package array.removeDuplicatesFromSortedArray26;
 
 public class Solution {
     public int removeDuplicates(int[] nums) {

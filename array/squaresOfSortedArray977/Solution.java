@@ -1,4 +1,4 @@
-package squaresOfSortedArray977;
+package array.squaresOfSortedArray977;
 
 public class Solution {
     public int[] sortedSquares(int[] nums) {
