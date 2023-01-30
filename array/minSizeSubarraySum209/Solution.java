@@ -1,4 +1,4 @@
-package array.minimumSizeSubarraySum209;
+package array.minSizeSubarraySum209;
 
 public class Solution {
     public int minSubArrayLen(int target, int[] nums) {
